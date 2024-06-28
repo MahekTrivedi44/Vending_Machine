@@ -17,3 +17,6 @@ Technical Details:
 3. Image Handling with PIL
 4. Plotting with Matplotlib
 5. Socket Programming for Server-Client Communication
+
+GUIDE:
+Run the file 'PServer.py' in Python and 'PClient.py' in cmd to start the multiclient vending machine.
